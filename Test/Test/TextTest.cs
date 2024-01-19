@@ -10,7 +10,7 @@ namespace Test
     {
         internal void Test()
         {
-            throw new NotImplementedException();
+            Random.randomText();
         }
     }
 }

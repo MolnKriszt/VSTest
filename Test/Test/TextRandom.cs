@@ -6,5 +6,8 @@ using System.Threading.Tasks;
 
 namespace Test
 {
-    
+        static public void randomText() 
+        {
+            Console.WriteLine("RandomText");
+        }    
 }
