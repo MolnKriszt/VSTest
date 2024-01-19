@@ -1,7 +1,0 @@
-C:\Tanulók\2023-2025\12.D\Molnár Krisztián\C# projekt\teszt\VSTest\Test\Test\bin\Debug\Test.exe.config
-C:\Tanulók\2023-2025\12.D\Molnár Krisztián\C# projekt\teszt\VSTest\Test\Test\bin\Debug\Test.exe
-C:\Tanulók\2023-2025\12.D\Molnár Krisztián\C# projekt\teszt\VSTest\Test\Test\bin\Debug\Test.pdb
-C:\Tanulók\2023-2025\12.D\Molnár Krisztián\C# projekt\teszt\VSTest\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
-C:\Tanulók\2023-2025\12.D\Molnár Krisztián\C# projekt\teszt\VSTest\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-C:\Tanulók\2023-2025\12.D\Molnár Krisztián\C# projekt\teszt\VSTest\Test\Test\obj\Debug\Test.exe
-C:\Tanulók\2023-2025\12.D\Molnár Krisztián\C# projekt\teszt\VSTest\Test\Test\obj\Debug\Test.pdb
