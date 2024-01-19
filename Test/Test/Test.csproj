@@ -43,8 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DateTest.cs" />
+    <Compile Include="NumberRandom.cs" />
+    <Compile Include="NumberTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomDate.cs" />
+    <Compile Include="TextRandom.cs" />
+    <Compile Include="TextTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

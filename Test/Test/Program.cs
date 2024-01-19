@@ -11,7 +11,16 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(File.ReadAllText("szoveg.txt"));
+            DateTest dt = new DateTest();
+            dt.Test();
+            TextTest tt = new TextTest();
+            tt.Test();
+            NumberTest nt = new NumberTest();
+            nt.Test();
+
+
+
+
             Console.ReadLine();
         }
     }
