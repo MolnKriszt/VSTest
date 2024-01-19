@@ -8,6 +8,10 @@ namespace Test
 {
     static internal partial class Random
     {
-        
+        static public void RandomNumber()
+        {
+            Console.WriteLine("RandomNumber");
+        }
+
     }
 }

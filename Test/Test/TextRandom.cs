@@ -6,8 +6,5 @@ using System.Threading.Tasks;
 
 namespace Test
 {
-    static internal partial class Random
-    {
-
-    }
+    
 }
