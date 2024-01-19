@@ -8,5 +8,9 @@ namespace Test
 {
     static internal partial class Random
     {
+        static public void RandomDate()
+        {
+            Console.WriteLine("RandomDate");
+        }
     }
 }
